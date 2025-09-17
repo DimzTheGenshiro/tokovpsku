@@ -1,5 +1,5 @@
 // pages/api/auth/register.js
-import connectDb from '../../../../lib/db';
+import connectDb from '../../../lib/db';
 import User from '../../../lib/models/User';
 
 export default async function handler(req, res) {

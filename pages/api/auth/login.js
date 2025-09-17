@@ -1,5 +1,5 @@
 // pages/api/auth/login.js
-import connectDb from '../../../../lib/db';
+import connectDb from '../../../lib/db';
 import User from '../../../lib/models/User';
 import jwt from 'jsonwebtoken';
 
