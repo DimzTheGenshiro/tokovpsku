@@ -12,6 +12,7 @@
     "@babel/core": "^7.28.4",
     "@babel/preset-env": "^7.28.3",
     "crypto-js": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
     "midtrans-client": "^1.4.3",
     "mongoose": "^8.18.1",
     "next": "15.5.3",
