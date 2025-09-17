@@ -1,0 +1,30 @@
+{
+  "name": "tokovps",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/preset-env": "^7.28.3",
+    "crypto-js": "^4.2.0",
+    "midtrans-client": "^1.4.3",
+    "mongoose": "^8.18.1",
+    "next": "15.5.3",
+    "next-auth": "^4.24.11",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.3",
+    "tailwindcss": "^4"
+  }
+}
